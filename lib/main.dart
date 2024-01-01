@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:practice/provider/homepage.dart';
-import 'package:practice/provider/states/stateManager.dart';
+import 'package:practice/homepage.dart';
+
+import 'package:practice/states/stateManager.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(ChangeNotifierProvider(
