@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:practice/components/container.dart';
 import 'package:practice/states/stateManager.dart';
 import 'package:provider/provider.dart';
-
-import 'components/container.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
